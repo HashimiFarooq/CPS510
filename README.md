@@ -10,3 +10,15 @@ CREATE TABLE user_info(
     gmail VARCHAR(100) NOT NULL UNIQUE);
 
 
+UMAIR IS CRINGE
+ATHAVAN IS a FOB
+
+
+Cine
+
+
+
+
+
+
+
